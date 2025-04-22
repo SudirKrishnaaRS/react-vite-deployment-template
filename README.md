@@ -10,6 +10,8 @@
 
 Commit: [Refer Here](https://github.com/SudirKrishnaaRS/react-vite-deployment-template/commit/f55ac5033d7b56ccd64ff0bd2dbcbd3e8017a516)
 
+File Name: `vite.config.js` 
+
 
 ![image](https://github.com/user-attachments/assets/53a4c06c-ec31-45de-ab30-6febbdc7878f)
 
