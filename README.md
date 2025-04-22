@@ -42,12 +42,15 @@ Commit: [Refer Here](https://github.com/SudirKrishnaaRS/react-vite-deployment-te
 
 ![image](https://github.com/user-attachments/assets/19369638-d672-4958-b6d9-32aee6893076)
 
-### Step 5: Run the below command to start the deployment
+### Step 5: Run the below command(in VS Code) to start the deployment
+
 ```
  npm run deploy
 ```
 
 ### Step 6: Congratulations ✨, your site would be live now 🚀
+
+> NOTE: The above steps are not automated, hence you'll need to run `npm run deploy` to trigger a re-deployment
 
 ---
 
